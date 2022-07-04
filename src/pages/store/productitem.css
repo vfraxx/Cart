@@ -1,0 +1,40 @@
+.bishtar {
+    font-family: "Peyda", sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0;
+
+}
+
+.to {
+    font-family: "Peyda",sans-serif;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 1rem;
+    letter-spacing: 0;
+}
+
+.jos {
+    font-family: "Peyda", sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0;
+}
+
+.cart {
+    font-family: "Peyda", sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0;
+}
+.card {
+    border-radius: 1rem;
+}
+
+.card:hover {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transition: all 0.5s;
+}

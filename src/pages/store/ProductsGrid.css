@@ -1,0 +1,38 @@
+/* .p {
+
+} */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 15px;
+}
+
+.h1 {
+    font-family: 'Peyda', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 850;
+    text-decoration: none;
+    letter-spacing: 0;
+}
+
+.p {
+    font-family: 'Peyda', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 200;
+    text-decoration: none;
+    letter-spacing: 0;
+}
+
+.mah {
+    font-family: 'Peyda', sans-serif;
+    font-weight: normal;
+    font-size: 1.2rem;
+}
+
+.form-control {
+    font-family: 'Peyda',sans-serif;
+    border-radius: 1rem;
+    font-weight: 300;
+    font-size: 1rem;
+    text-align: end;
+}
